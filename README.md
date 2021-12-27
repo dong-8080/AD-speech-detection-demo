@@ -18,9 +18,13 @@ Demo分为前后端，前端用Tkinter实现，参考自：
 | -------- | --------- | ------ | ------ |
 | 0.8067   | 0.8481    | 0.8067 | 0.8095 |
 
-
+![confusion matrix](https://github.com/dong-8080/AD-speech-detection-demo/blob/main/images/confusion_matrix.png)
 
 若非菜孰愿弟，等拿到医院数据后训练更强的分类模型。
 
-** 界面： **
-![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
+**界面：**
+
+
+![gui1](https://github.com/dong-8080/AD-speech-detection-demo/blob/main/images/readme1.png)
+
+![gui2](https://github.com/dong-8080/AD-speech-detection-demo/blob/main/images/readme2.png)
